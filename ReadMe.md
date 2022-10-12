@@ -1,3 +1,3 @@
 # Demystifying Hacktoberfest
 
-This is an awesoem Live Straem!
+This is an awesome Live Stream!
